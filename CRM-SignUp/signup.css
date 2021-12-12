@@ -4,16 +4,10 @@
   padding-left: 20px;
 }
 
-input[type = "submit"]{
-  border-radius: 24px;
-  border:0;
-  background: none;
-  display: block;
-  margin: 20px auto;
-  text-align: center;
-  border: 2px solid;
-  padding: 14px 40px;
-  outline: none;
-  color: white;
-  transition: 0.35s;
+.btn {
+  width: 500px;
+}
+
+.Form {
+  margin-top: 50%;
 }
