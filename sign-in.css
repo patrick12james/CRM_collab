@@ -4,7 +4,7 @@ html {
     width: 100%;
  }
  
- body {
+body {
     margin: 0px;
     min-height: 100%;
     width: 100%;
@@ -17,18 +17,23 @@ html {
 
 #username{
 
-    background: white url(/CRM-SignUp/Page-1.png) left no-repeat;
-    padding-left: 17px;
+    background: white url(/CRM-SignUp/username-small.jpg) left no-repeat;
+    padding-left: 30px;
 }
 
 #email {
 
-    background: white url(/CRM-SignUp/Page-1.png) left no-repeat;
-    padding-left: 17px;
+    background: white url(/CRM-SignUp/small-email.jpg) left no-repeat;
+    padding-left: 30px;
 }
 
 #password {
 
-    background: white url(/CRM-SignUp/Page-1.png) left no-repeat;
-    padding-left: 17px;
+    background: white url(/CRM-SignUp/lock-small.jpg) left no-repeat;
+    padding-left: 30px;
+}
+
+#socialimg{
+    width: auto;
+    height: 40px;
 }
