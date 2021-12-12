@@ -12,25 +12,26 @@ body {
 
  
 .bluebg{
-    clip-path: ellipse(59% 100% at 32% 14%);
+    background-color: rgb(0, 0, 255);
+    clip-path: ellipse(73% 100% at 21% 3%);
 }
 
 #username{
 
     background: white url(/CRM-SignUp/username-small.jpg) left no-repeat;
-    padding-left: 30px;
+    padding-left: 40px;
 }
 
 #email {
 
     background: white url(/CRM-SignUp/small-email.jpg) left no-repeat;
-    padding-left: 30px;
+    padding-left: 40px;
 }
 
 #password {
 
     background: white url(/CRM-SignUp/lock-small.jpg) left no-repeat;
-    padding-left: 30px;
+    padding-left: 40px;
 }
 
 #socialimg{
