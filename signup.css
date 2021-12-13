@@ -13,3 +13,21 @@
 .col h6 {
   margin-top: 50px;
 }
+
+#username{
+
+  background: white url(/CRM-SignUp/username-small.jpg) left no-repeat;
+  padding-left: 40px;
+}
+
+#email {
+
+  background: white url(/CRM-SignUp/small-email.jpg) left no-repeat;
+  padding-left: 40px;
+}
+
+#password {
+
+  background: white url(/CRM-SignUp/lock-small.jpg) left no-repeat;
+  padding-left: 40px;
+}
