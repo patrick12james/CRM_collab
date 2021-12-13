@@ -1,0 +1,15 @@
+#username {
+
+  background: rgb(255, 255, 255) url(/CRM-SignUp/Sign\ Up\ -\ CRM\ SIgnup@2x.png) left no-repeat;
+  padding-left: 20px;
+}
+
+
+#socialimg{
+  width: auto;
+  height: 40px;
+}
+
+.col h6 {
+  margin-top: 50px;
+}
